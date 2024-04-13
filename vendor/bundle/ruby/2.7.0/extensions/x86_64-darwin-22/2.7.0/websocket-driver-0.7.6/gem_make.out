@@ -1,0 +1,15 @@
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/innovacion2/.rvm/rubies/ruby-2.7.0/bin/ruby -I /Users/innovacion2/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20240413-30467-1apb4kh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20240413-30467-c8om2o

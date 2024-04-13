@@ -1,0 +1,15 @@
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/innovacion2/.rvm/rubies/ruby-2.7.0/bin/ruby -I /Users/innovacion2/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20240413-30467-19mof6f.rb extconf.rb
+creating Makefile
+
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/innovacion2/Desktop/wjorellano/microservicios/auth_ecommerce/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20240413-30467-1vlauz9/racc
